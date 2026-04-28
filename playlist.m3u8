@@ -1,3 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="YouTube", Nume Videoclip 1
-https://stream.zustic.com/watch/ZjFjMzA5MTgtNTBkOC00YWM1LTg4ZDktNDY2OTg5MGQ0YzA4
+#EXTINF:-1 group-title="Test Server", Esref Ruya
+http://207.180.235.139/EsrefRuya-1-episode.mp4
+
+#EXTINF:-1 group-title="Test Iepuras", Iepurasul Bucuras
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
