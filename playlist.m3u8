@@ -1,6 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="Test Server", Esref Ruya
+#EXTINF:-1 tvg-id="" tvg-name="Esref Ruya" tvg-logo="" group-title="Filme", Esref Ruya 1
 http://207.180.235.139/EsrefRuya-1-episode.mp4
-
-#EXTINF:-1 group-title="Test Iepuras", Iepurasul Bucuras
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
